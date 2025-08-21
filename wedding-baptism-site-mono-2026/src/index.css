@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.mono{filter:grayscale(100%)}
+.tracking-wideish{letter-spacing:.18em}
+.thin{font-weight:300}
