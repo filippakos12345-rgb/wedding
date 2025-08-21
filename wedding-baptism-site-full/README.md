@@ -1,0 +1,1 @@
+Build with `npm run build` → deploy `dist/` via Vercel (framework: Vite).
