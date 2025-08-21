@@ -1,9 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* Monochrome aesthetic */
-:root { --radius: 18px }
-.mono { filter: grayscale(100%); }
-.tracking-wideish { letter-spacing: .18em }
-.thin { font-weight: 300 }
+.mono{filter:grayscale(100%)}
+.tracking-wideish{letter-spacing:.18em}
+.thin{font-weight:300}
