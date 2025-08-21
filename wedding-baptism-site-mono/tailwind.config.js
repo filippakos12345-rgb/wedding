@@ -1,0 +1,15 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{ts,tsx}'],
+  theme: { extend: {
+    fontFamily: {
+      serif: ['"Times New Roman"', 'Georgia', 'serif'],
+      display: ['Georgia', 'serif']
+    },
+    colors: {
+      bg: '#f7f7f7',
+      ink: '#121212'
+    }
+  } },
+  plugins: [],
+}

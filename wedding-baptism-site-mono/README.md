@@ -1,0 +1,1 @@
+Monochrome wedding+baptism site. Build: npm run build → dist/. Vercel: Vite, output dist.
